@@ -3,6 +3,6 @@ James Kendall Bruce
 
 "First comment"
 
-"This is a change on newbranch"
+"This is another change on newbranch"
 
 "Testbranch change"
